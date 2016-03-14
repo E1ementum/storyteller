@@ -68,6 +68,25 @@
 					<div class="t2">The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the evening. But Gregor found it easy to give up having the door open, he had, after all, often failed to make use of it when it was open and, without the family having noticed it, lain in his room in its darkest corner. One time, though, the charwoman left the door.</div>
 				</div>
 			</div>
+			<div class="p2">
+				<div class="content">
+					<div class="b1">
+						<div class="i1"></div>
+						<div class="t1">An Wow Feature</div>
+						<div class="t2">The gentlemen who rented the room would sometimes take their evening meal at home in the living.</div>
+					</div>
+					<div class="b2">
+						<div class="i2"></div>
+						<div class="t3">A Beautiful Feature</div>
+						<div class="t4">The gentlemen who rented the room would sometimes take their evening meal at home in the living.</div>
+					</div>
+					<div class="b3">
+						<div class="i3"></div>
+						<div class="t5">An Amazing Feature</div>
+						<div class="t6">The gentlemen who rented the room would sometimes take their evening meal at home in the living.</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>

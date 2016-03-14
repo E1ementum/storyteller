@@ -206,7 +206,7 @@ textarea:focus::-ms-input-placeholder {
 
 .p1 {
 	background: #ffffff;
-	height: 490px;
+	height: 390px;
 }
 
 
@@ -231,4 +231,94 @@ textarea:focus::-ms-input-placeholder {
 	white-space: normal;
 	text-align: center;
 	line-height: 33.5px;
+}
+
+/*
+	P2
+*/
+
+.p2 {
+	background: #efefef;
+	height: 375px;
+}
+
+.p2 .b1 {
+	padding-top: 81px;
+	margin-left: 57px;
+	float: left;
+	width: 270px;
+}
+
+.p2 .i1 {
+	background: url(../img/p2i1.png) no-repeat;
+	height: 33px;
+}
+
+.p2 .t1 {
+	margin-top: 23px;
+	margin-left: -1px;
+	font-size: 20px;
+}
+
+.p2 .t2 {
+	margin-top: 26px;
+	white-space: normal;
+	word-spacing: 5px;
+	line-height: 26px;
+	font-family: "_ssp_r";
+}
+
+.p2 .i2 {
+	background: url(../img/p2i2.png) no-repeat;
+	height: 33px;
+}
+
+.p2 .b2 {
+	width: 270px;
+	padding-top: 83px;
+	margin-left: 131px;
+	float: left;
+}
+
+.p2 .t3 {
+	margin-top: 21px;
+	margin-left: -4px;
+	font-size: 20px;
+	word-spacing: 2px;
+}
+
+.p2 .t4 {
+	margin-top: 26px;
+	white-space: normal;
+	word-spacing: 4px;
+	line-height: 26px;
+	font-family: "_ssp_r";
+}
+
+.p2 .b3 {
+	width: 270px;
+	padding-top: 77px;
+	margin-left: 130px;
+	float: left;
+}
+
+.p2 .i3 {
+	background: url("../img/p2i3.png") no-repeat;
+	height: 38px;
+}
+
+.p2 .t5 {
+	margin-top: 22px;
+	margin-left: -7px;
+	font-size: 20px;
+	word-spacing: 2px;
+}
+
+.p2 .t6 {
+	margin-top: 26px;
+	margin-left: -3px;
+	white-space: normal;
+	word-spacing: 4px;
+	line-height: 26px;
+	font-family: "_ssp_r";	
 }
