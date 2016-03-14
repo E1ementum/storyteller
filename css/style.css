@@ -199,59 +199,36 @@ textarea:focus::-ms-input-placeholder {
 .header .btn1:active {
 	color: #750707;
 }
+
 /*
-	POPUP_POLICY
+	P1
 */
 
-#popup_policy {
-	width: 800px;
-	height: 460px;
-	background: #FEFEFE;
-	border: 5px solid #3d3d3d;
-	position: relative;
-	text-align: left;
+.p1 {
+	background: #ffffff;
+	height: 490px;
 }
-#popup_policy .b1 {
-	width: 740px;
-	margin: 20px auto;
-	height: 420px;
-	overflow-y: auto;
-	white-space: normal;
-	padding-right: 20px;
-	color: #3d3d3d;
-	font-size: 14px;
+
+
+.p1 .i1 {
+	background: url("../img/i1.png") no-repeat 50%; 
+	height: 39px; 
+	margin-top: 100px;
 }
-#popup_policy .t1 {
+
+.p1 .t1 {
 	text-align: center;
-	clear: both;
-	font-size: 20px;
-	font-weight: bold;
-	margin: 6px auto;
+	font-size: 29px;
+	margin-top: 12px;
+	letter-spacing: 1px;
 }
-#popup_policy .t2 {
-	margin: 6px auto;
-}
-#popup_policy .t3 {
-	clear: both;
-	font-weight: bold;
-	margin-top: 6px;
-	margin-bottom: -6px;
-}
-#popup_policy .c1 {
-	background-repeat: no-repeat;
-	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAMAAADX9CSSAAAAvVBMVEX////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////jSrqQAAAAPnRSTlMAAQIDBAYQERMVFxkbHiAjJjI5PD9DZWltbnN0d3h5fH2DhJmen6OnqKu9wcLKzc/U2d3f4eTw8fP19vj9/iKG1OoAAACsSURBVHjadZLXEoJADEWvvWIvCNix9y4q+f/PUrYNMOt5y5nMTvYmYJTqECSmXSjKp3sDjJRLvim1cSZ6NJme0w+L68olKJ4tIL0ghhPo6pUXXjuzIsEQqN1k4W1IMcaadPRRPGq0DaBwiFu/h4D8Pqblz3K7iO5AYrxD3lU6G+n/8H79+/p5TEA/v4U//3VC+by2pJjo8xzF8l9yPdDvy9bsdyZSi99DUtzDF4nyUEf7BoCqAAAAAElFTkSuQmCC');
-	background-position: 50% 50%;
-	width: 31px;
-	height: 31px;
-	position: absolute;
-	right: -30px;
-	top: -30px;
-	opacity: 0.8;
-	cursor: pointer;
-}
-#popup_policy .c1:hover {
-	opacity: 1;
-}
-#popup_policy .c1:active {
-	opacity: 0.6;
+
+.p1 .t2 {
+	margin-top: 60px;
+	margin-left: 101px;
+	width: 966px;
+	display: inline-block;
+	white-space: normal;
+	text-align: center;
+	line-height: 33.5px;
 }
