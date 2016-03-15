@@ -322,3 +322,36 @@ textarea:focus::-ms-input-placeholder {
 	line-height: 26px;
 	font-family: "_ssp_r";	
 }
+
+/*
+	P3
+*/
+
+.p3 {
+	background: #ffffff;
+	height: 840px;
+}
+
+.p3 .t1 {
+	text-align: center;
+	font-size: 29px;
+	margin-top: 97px;
+	letter-spacing: 1px;	
+}
+
+.p3 .t2 {
+	margin-top: 29px;
+	margin-left: 187px;
+	width: 790px;
+	display: inline-block;
+	white-space: normal;
+	text-align: center;
+	line-height: 33.5px;
+	font-family: "_ssp_r";
+}
+
+.p3 .i1 {
+	background: url(../img/p3i1.png) no-repeat 50%;
+	height: 368px;
+	margin-top: 101px;
+}
