@@ -124,6 +124,13 @@
 						<div class="i1"></div>
 					</div>
 				</div>
+				<div class="p7">
+					<div class="content">
+						<div class="i1"></div>
+						<div class="t1">Happiness cannot be traveled to, owned, earned, or worn. It is the spiritual experience of living every minute with love, grace & gratitude.</div>
+						<div class="t2">Denis Waitley</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</body>

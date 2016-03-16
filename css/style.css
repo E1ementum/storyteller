@@ -445,3 +445,46 @@ textarea:focus::-ms-input-placeholder {
 	background: url(../img/p6i1.png) no-repeat 50%; 
 	height: 436px;
 }
+
+/*
+	P7
+*/
+
+.p7 {
+	background: #212121;
+	height: 308px;
+}
+
+.p7 .i1 {
+	background: url(../img/p7i1.png) no-repeat 50%;
+	height: 16px;
+	position: relative;
+	top: 83px;
+	left: -2px;
+}
+
+.p7 .t1 {
+	margin-top: 99px;
+	margin-left: 167px;
+	width: 842px;
+	white-space: normal;
+	text-align: center;
+	line-height: 37.5px;
+	font-family: "_ssp_r";
+	letter-spacing: 2px;
+	word-spacing: -2px;
+	color: #eeeeee;		
+}
+
+.p7 .t2 {
+	margin-top: 34px;
+	margin-left: 531px;
+	display: inline-block;
+	white-space: normal;
+	text-align: center;
+	font-family: "_ssp_r";
+	letter-spacing: 2px;
+	word-spacing: -2px;
+	color: #eeeeee;	
+	font-style: italic;
+}
