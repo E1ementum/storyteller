@@ -61,6 +61,13 @@ body {
 	margin: 0px auto;
 	width: 1170px;
 }
+
+.content_2 {
+	position: relative;
+	margin: 0px auto;
+	width: 1760px;
+}
+
 .screen {
 	overflow: hidden;
 	min-height: 100%;
@@ -425,3 +432,16 @@ textarea:focus::-ms-input-placeholder {
 	font-family: "_ssp_r";
 }
 
+/*
+	P6
+*/
+
+.p6 {
+	background: #ffffff;
+	height: 515px;
+}
+
+.p6 .i1 {
+	background: url(../img/p6i1.png) no-repeat 50%; 
+	height: 436px;
+}
