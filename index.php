@@ -95,42 +95,70 @@
 					<div class="t2">The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the  </div>
 					<div class="i1"></div>
 				</div>
+			</div>
+			<div class="p4">
+				<div class="content">
+					<div class="t1">Clients</div>
+					<div class="i1">
+					</div>
 				</div>
-				<div class="p4">
-					<div class="content">
-						<div class="t1">Clients</div>
-						<div class="i1">
+			</div>
+			<div class="p5">
+				<div class="content">
+					<div class="t1">Portfolio & Screenshots</div>
+					<div class="t2">The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the  </div>
+					<div class="b1"></div>
+					<div class="b2">
+						<div class="menu jas_noselect">
+							<div class="t3 jas_noselect"><span>Art</span></div>
+							<div class="t3 jas_noselect"><span>Mestery</span></div>
+							<div class="t3 jas_noselect"><span>Illusion</span></div>
+							<div class="t3 jas_noselect"><span>Travel</span></div>
+							<div class="t3 jas_noselect"><span>Paintings</span></div>
+						</div>							
+					</div>
+				</div>
+			</div>
+			<div class="p6">
+				<div class="content_2">
+					<div class="i1"></div>
+				</div>
+			</div>
+			<div class="p7">
+				<div class="content">
+					<div class="i1"></div>
+					<div class="t1">Happiness cannot be traveled to, owned, earned, or worn. It is the spiritual experience of living every minute with love, grace & gratitude.</div>
+					<div class="t2">Denis Waitley</div>
+				</div>
+			</div>
+			<div class="p8">
+				<div class="content">
+					<div class="t1">Team Members</div>
+					<div class="t2">The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the  </div>
+					<div class="b1">
+						<div class="b2_v1">
+							<div class="i1"></div>
+							<div class="t1_v1">JAMES PHILLY</div>
+							<div class="t2_v1">Lead Developer</div>
 						</div>
-					</div>
-				</div>
-				<div class="p5">
-					<div class="content">
-						<div class="t1">Portfolio & Screenshots</div>
-						<div class="t2">The gentlemen who rented the room would sometimes take their evening meal at home in the living room that was used by everyone, and so the door to this room was often kept closed in the  </div>
-						<div class="b1"></div>
-						<div class="b2">
-							<div class="menu jas_noselect">
-								<div class="t3 jas_noselect"><span>Art</span></div>
-								<div class="t3 jas_noselect"><span>Mestery</span></div>
-								<div class="t3 jas_noselect"><span>Illusion</span></div>
-								<div class="t3 jas_noselect"><span>Travel</span></div>
-								<div class="t3 jas_noselect"><span>Paintings</span></div>
-							</div>							
+						<div class="b2_v2">
+							<div class="i2"></div>
+							<div class="t1_v2">CACTUS JACK</div>
+							<div class="t2_v2">3D Model Designer</div>
 						</div>
+						<div class="b2_v3">
+							<div class="i3"></div>
+							<div class="t1_v3">JACK SPARROW</div>
+							<div class="t2_v3">Master of All Trade</div>
+						</div>
+						<div class="b2_v4">
+							<div class="i4"></div>
+							<div class="t1_v4">YAGA SQUARHEAD</div>
+							<div class="t2_v4">Manages Money</div>
+						</div>																							
 					</div>
 				</div>
-				<div class="p6">
-					<div class="content_2">
-						<div class="i1"></div>
-					</div>
-				</div>
-				<div class="p7">
-					<div class="content">
-						<div class="i1"></div>
-						<div class="t1">Happiness cannot be traveled to, owned, earned, or worn. It is the spiritual experience of living every minute with love, grace & gratitude.</div>
-						<div class="t2">Denis Waitley</div>
-					</div>
-				</div>
+			</div>
 			</div>
 		</div>
 	</body>
