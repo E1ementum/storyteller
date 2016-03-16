@@ -159,6 +159,30 @@
 					</div>
 				</div>
 			</div>
+			<div class="p9">
+				<div class="content">
+					<div class="t1">Facts & Numbers</div>
+					<div class="b1">
+						<div class="b2">
+							<div class="t2">110</div>
+							<div class="b4"></div>
+							<div class="t3">successful projects</div>
+							<div class="t4">30</div>
+							<div class="b4"></div>
+							<div class="t3">open source plugins</div>							
+						</div>
+						<div class="b3">
+							<div class="t2">25</div>
+							<div class="b4"></div>
+							<div class="t3">awesome clients</div>
+							<div class="t4">13</div>
+							<div class="b4"></div>
+							<div class="t3">open source themes</div>
+						</div>						
+					</div>
+
+				</div>
+			</div>
 			</div>
 		</div>
 	</body>
