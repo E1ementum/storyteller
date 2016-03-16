@@ -329,7 +329,7 @@ textarea:focus::-ms-input-placeholder {
 
 .p3 {
 	background: #ffffff;
-	height: 840px;
+	height: 740px;
 }
 
 .p3 .t1 {
@@ -355,3 +355,73 @@ textarea:focus::-ms-input-placeholder {
 	height: 368px;
 	margin-top: 101px;
 }
+
+/*
+	P4
+*/
+
+.p4 {
+	background: #efefef;
+	height: 366px;
+}
+
+.p4 .t1 {
+	text-align: center;
+	font-size: 29px;
+	padding-top: 61px;
+	letter-spacing: 1px;
+}
+
+.p4 .i1 {
+	background: url(../img/p4i1.png) no-repeat 54%;
+	height: 102px;
+	margin-top: 59px;
+}
+
+/*
+	P5
+*/
+
+
+.p5 {
+	background: #ffffff;
+	height: 400px;
+}
+
+.p5 .t1 {
+	text-align: center;
+	font-size: 29px;
+	padding-top: 104px;
+	letter-spacing: 1px;
+}
+
+.p5 .t2 {
+	margin-top: 29px;
+	margin-left: 196px;
+	width: 776px;
+	display: inline-block;
+	white-space: normal;
+	text-align: center;
+	line-height: 33.5px;
+	font-family: "_ssp_r";	
+}
+
+.p5 .b1	{
+	background: #e64a19;
+	width: 75px;
+	height: 7px;
+	margin-top: 47px;
+	margin-left: 546px;
+}
+
+.p5 .b2 {
+	margin: 49px 379px;
+	width: 422px;
+	height: 30px;
+}
+.p5 .t3 {
+	float: left;
+	margin: -1px 18.1px;
+	font-family: "_ssp_r";
+}
+
