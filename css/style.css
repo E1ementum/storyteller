@@ -702,7 +702,7 @@ textarea:focus::-ms-input-placeholder {
 
 .p10 {
 	background: #ffffff;
-	height: 1436px;
+	height: 1326px;
 }
 
 .p10 .b1 {
@@ -801,4 +801,57 @@ textarea:focus::-ms-input-placeholder {
 	margin-left: -31px;
 	letter-spacing: 0.3px;
 	font-family: "_ssp_r";
+}
+
+/*
+	P11
+*/
+
+.p11 {
+	background: #efefef;
+	height: 141px;
+	padding-top: 74px;
+}
+
+.p11 .b1 {
+	height: 73px;
+}
+
+.p11 .b2, .p11 .b3 {
+	width: 400px;
+	height: 73px;
+	float: left;
+}
+
+.p11 .b2_v1 {
+	background: #212121;
+	width: 6px;
+	height: 73px;
+	float: left;
+}
+
+.p11 .t1 {
+	margin: 9px 18px;
+	font-size: 18px;
+	display: inline-block;
+}
+
+.p11 .t2 {
+	letter-spacing: 0.3px;
+	font-family: "_ssp_r";
+	margin: -1px 23px; 
+}
+
+.p11 .b4 {
+	height: 73px;
+	display: inline-block;
+}
+
+/*
+	P12
+*/
+
+.p12 {
+	background: #ffffff;
+	height: 462px;
 }

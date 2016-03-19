@@ -212,6 +212,33 @@
 				</div>
 			<div class="jas_clear"></div>
 			</div>
+			<div class="p11">
+				<div class="content">
+					<div class="b1">
+						<div class="b2">
+							<div class="b2_v1"></div>
+							<div class="t1">Another Day In Paradise</div>
+							<div class="t2">Travel / 21st March, 2014</div>
+						</div>
+						<div class="b3">
+							<div class="b2_v1"></div>
+							<div class="t1">Jimmy’s New Book on Aliens</div>
+							<div class="t2">Personal / 21st March, 2014</div>							
+						</div>
+						<div class="b4">
+							<div class="b2_v1"></div>
+							<div class="t1">Sarah’s New House</div>
+							<div class="t2">Personal / 21st March, 2014</div>							
+						</div>
+					</div>
+				</div>
+			<div class="jas_clear"></div>
+			</div>
+			<div class="p12">
+				<div class="content">
+					
+				</div>
+			</div>
 			</div>
 		</div>
 	</body>
