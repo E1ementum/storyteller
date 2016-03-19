@@ -855,3 +855,31 @@ textarea:focus::-ms-input-placeholder {
 	background: #ffffff;
 	height: 462px;
 }
+
+.p12 .i1 {
+	background: url(../img/p12i1.png) no-repeat 50%;
+	height: 22px;
+	padding-top: 155px;
+}
+
+.p12 .i2 {
+	background: url(../img/p12i2.png) no-repeat 50%;
+	height: 60px;
+	margin-top: -20px;	
+}
+
+.p12 .t1 {
+	margin: 30px auto;
+	text-align: center;
+	line-height: 40px;
+	white-space: normal;
+	font-size: 20px;
+	width: 846px;
+	height: 112px;
+	font-family: "_ssp_r";	
+}
+
+.p12 .t2 {
+	text-align: center;	
+	margin: -39px auto;	
+}

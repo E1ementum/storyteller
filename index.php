@@ -236,7 +236,10 @@
 			</div>
 			<div class="p12">
 				<div class="content">
-					
+					<div class="i1"></div>
+					<div class="i2"></div>
+					<div class="t1">Happiness cannot be traveled to, owned, earned, or worn. It is the spiritual experience of living every minute with love, grace & gratitude.</div>
+					<div class="t2">@loveless</div>
 				</div>
 			</div>
 			</div>
