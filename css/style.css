@@ -546,7 +546,7 @@ textarea:focus::-ms-input-placeholder {
 
 .p8 .t2_v1 {
 	text-align: center;
-	margin-top: 13px;
+	margin-top: 11px;
 	font-size: 15px;
 	font-family: "_ssp_r";		
 }
@@ -567,7 +567,7 @@ textarea:focus::-ms-input-placeholder {
 
 .p8 .t2_v2 {
 	text-align: center;
-	margin-top: 13px;
+	margin-top: 11px;
 	margin-left: -2px;
 	font-size: 15px;
 	font-family: "_ssp_r";		
@@ -595,7 +595,7 @@ textarea:focus::-ms-input-placeholder {
 
 .p8 .t2_v3 {
 	text-align: center;
-	margin-top: 13px;
+	margin-top: 11px;
 	margin-left: -3px;
 	font-size: 15px;
 	font-family: "_ssp_r";		
@@ -622,7 +622,7 @@ textarea:focus::-ms-input-placeholder {
 
 .p8 .t2_v4 {
 	text-align: center;
-	margin-top: 13px;
+	margin-top: 11px;
 	margin-left: 3px;
 	font-size: 15px;
 	font-family: "_ssp_r";		
@@ -694,4 +694,111 @@ textarea:focus::-ms-input-placeholder {
 	height: 236px;
 	margin: 52px 98px;
 	display: inline-block;
+}
+
+/*
+	P10
+*/
+
+.p10 {
+	background: #ffffff;
+	height: 1436px;
+}
+
+.p10 .b1 {
+	height: 425px;
+	margin-top: 110px;
+
+}
+
+.p10 .b1_v1 {
+	text-align: center;
+	height: 425px;
+	width: 599px;
+	white-space: normal;
+	float: left;
+}
+
+.p10 .t1_v1 {
+	margin-top: 77px;
+	margin-left: -31px;
+	letter-spacing: 0.3px;
+	font-family: "_ssp_r";
+}
+
+.p10 .t2_v1 {
+	margin-top: 6px;
+	margin-left: -32px;
+	font-size: 27px;
+
+}
+
+.p10 .t3_v1 {
+	margin: 42px 68px;
+	font-family: "_ssp_r";
+	line-height: 28px;
+	width: 431px;
+}
+
+.p10 .b1_v2 {
+	background: url(../img/p10b1_v2.jpg) no-repeat;
+	height: 381px;
+	width: 571px;
+	float: left;
+
+}
+
+.p10 .b2 {
+	height: 425px;
+}
+
+.p10 .b2_v1 {
+	background: url(../img/p10b2_v1.jpg) no-repeat;
+	height: 381px;
+	width: 571px;
+	float: left;	
+}
+
+.p10 .b2_v2 {
+	text-align: center;
+	height: 425px;
+	width: 599px;
+	white-space: normal;
+	float: left;	
+}
+
+.p10 .t1_v2 {
+	margin-top: 77px;
+	margin-left: 29px;
+	letter-spacing: 0.3px;
+	font-family: "_ssp_r";
+}
+
+.p10 .t2_v2 {
+	margin-top: 6px;
+	margin-left: 26px;
+	font-size: 27px;
+
+}
+
+.p10 .t3_v2 {
+	margin: 32px 98px;
+	font-family: "_ssp_r";
+	line-height: 28px;
+	width: 431px;
+}
+
+.p10 .b3_v2 {
+	background: url(../img/p10b3_v2.jpg) no-repeat;
+	height: 381px;
+	width: 571px;
+	float: left;
+
+}
+
+.p10 .t1_v3 {
+	margin-top: 86px;
+	margin-left: -31px;
+	letter-spacing: 0.3px;
+	font-family: "_ssp_r";
 }

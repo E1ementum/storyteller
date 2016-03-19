@@ -183,6 +183,35 @@
 
 				</div>
 			</div>
+			<div class="p10">
+				<div class="content">
+					<div class="b1">
+						<div class="b1_v1">
+							<div class="t1_v1">Travel / 21st March, 2014</div>
+							<div class="t2_v1">A New Product Is Coming</div>
+							<div class="t3_v1">The office assistant was the boss's man, spineless, and with no understanding. What about if he reported sick? But that would be extremely strained and suspicious as in fifteen years of service Gregor had never.</div>
+						</div>
+						<div class="b1_v2"></div>
+					</div>
+					<div class="b2">
+						<div class="b2_v1"></div>
+						<div class="b2_v2">
+							<div class="t1_v2">Gadget / 3rd March, 2014</div>
+							<div class="t2_v2">Jimmy’s New Xbox Controller</div>
+							<div class="t3_v2">The office assistant was the boss's man, spineless, and with no understanding. What about if he reported sick? But that would be extremely strained and suspicious as in fifteen years of service Gregor had never.</div>
+						</div>						
+					</div>
+					<div class="b3">
+						<div class="b1_v1">
+							<div class="t1_v3">Travel / 21st March, 2014</div>
+							<div class="t2_v1">A New Product Is Coming</div>
+							<div class="t3_v1">The office assistant was the boss's man, spineless, and with no understanding. What about if he reported sick? But that would be extremely strained and suspicious as in fifteen years of service Gregor had never.</div>
+						</div>
+						<div class="b3_v2"></div>						
+					</div>
+				</div>
+			<div class="jas_clear"></div>
+			</div>
 			</div>
 		</div>
 	</body>
