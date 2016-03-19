@@ -241,6 +241,34 @@
 					<div class="t1">Happiness cannot be traveled to, owned, earned, or worn. It is the spiritual experience of living every minute with love, grace & gratitude.</div>
 					<div class="t2">@loveless</div>
 				</div>
+			<div class="jas_clear"></div>	
+			</div>
+			<div class="footer">
+				<div class="content">
+					<div class="t1">UNICORN</div>
+					<div class="t2">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his</div>
+					<div class="menu jas_noselect">
+						<div class="b1">
+							<div class="t3_v1">LINKS</div>
+							<div class="t4_v1"><a href="#">Home</a><br><a href="#">About</a><br><a href="#">Services</a><br><a href="#">Menu</a><br><a href="#">Restaurants</a><br><a href="#">Work Hours</a><br><a href="#">Call Hours</a></div>
+						</div>
+						<div class="b2">
+							<div class="t3_v1">FRIENDS</div>
+							<div class="t4_v1"><a href="#">Home</a><br><a href="#">About</a><br><a href="#">Services</a><br><a href="#">Menu</a><br><a href="#">Restaurants</a></div>
+						</div>
+						<div class="b3">
+							<div class="t3_v1">SOCIAL</div>
+							<div class="t4_v1"><a href="#">Facebook</a><br><a href="#">Twitter</a><br><a href="#">Github</a><br><a href="#">Pinterest</a><br><a href="#">Google Plus</a><br><a href="#">Dribbble</a><br><a href="#">Flickr</a><br><a href="#">Others</a></div>						
+						</div>
+					</div>
+					<div class="b4"></div>
+					<div class="t5">One morning, when Gregor Samsa woke from troubled dreams, he found<br>© 2015 Your Awesome Company</div>
+					<div class="menu jas_noselect">
+						<div class="b5">
+							<div class="t6"><a href="#">TERMS</a><a href="#">PRIVACY POLICY</a><a href="#">CONTACT</a><a href="#">JOB</a></div>
+						</div>
+					</div>					
+				</div>
 			</div>
 			</div>
 		</div>
